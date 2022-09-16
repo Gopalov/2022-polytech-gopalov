@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 
 love mama
-=======
-# 2022-polytech-gopalov
->>>>>>> ea3389bf7404af3a73fe5f64ea85b7173afbd944
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
