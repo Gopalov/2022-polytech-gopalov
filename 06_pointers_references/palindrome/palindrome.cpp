@@ -25,4 +25,5 @@ int main() {
 	    assert(ispalindrome("") == false);
 	      assert(ispalindrome("hello world") == false);
 	        assert(ispalindrome(nullptr) == false);
+		  return 0;
 }
