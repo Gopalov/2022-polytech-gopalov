@@ -24,6 +24,6 @@ int main() {
 	  TA ta;
 	    ta.score = 5.0;
 	      // ta.name = "Da Sha";
-	      //
-	      //   return 0;
-	      //   }
+
+return 0;
+}
